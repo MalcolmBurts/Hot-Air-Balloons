@@ -10,3 +10,9 @@ img {
   top: 10px;
   right: 10px;
 }
+
+div {
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Google */
+    column-count: 2;
+}
