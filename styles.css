@@ -7,7 +7,7 @@ img src {
   height: 350;
   position: relative;
   top: 15px;
-  right: -300px;
+  left: 300px;
 }
 
 div {
