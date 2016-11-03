@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 body  {
     background-color: black;
 }
-<img src="http://www.cleveland-hotairballoons.com/img/footer/cleveland-hot-air-balloon-rides-05.jpg">
-img {
+
+img src {
   width: 400;
   height: 350;
   position: relative;
