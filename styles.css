@@ -10,6 +10,9 @@ img src {
   left: 300px;
 }
 
+.head {
+ width: 50%;
+}    
 div {
     -webkit-column-count: 2; /* Chrome, Safari, Opera */
     -moz-column-count: 2; /* Google */
